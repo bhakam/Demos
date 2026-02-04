@@ -1,6 +1,8 @@
 # Demos
 Check each project's dedicated .md file for more info
 
+https://github.com/bhakam/Demos/blob/main/GameEngine.md
+
 # Game Engine From Scratch
 
 https://github.com/user-attachments/assets/801aaa20-daf6-4503-b481-fcf15de849ef
