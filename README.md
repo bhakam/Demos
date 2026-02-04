@@ -1,4 +1,5 @@
 # Demos
+Check each project's dedicated .md file for more details
 
 # Game Engine From Scratch
 
