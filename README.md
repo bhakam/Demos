@@ -1,7 +1,7 @@
 # Demos
 
 # Game Engine From Scratch
-github.com/bhakam/Portfolio/blob/main/Game%20Engine%20Source%20Code/Game%20Engine.md
+https://github.com/bhakam/Portfolio/blob/main/Game%20Engine%20Source%20Code/Game%20Engine.md
 
 https://github.com/user-attachments/assets/801aaa20-daf6-4503-b481-fcf15de849ef
 
