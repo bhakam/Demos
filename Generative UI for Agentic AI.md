@@ -1,10 +1,10 @@
 
 
-# UI for Agentic AI
+# Generative UI for Browser-Based AI Agents
 
-• Leveraged the SwiftUI frontend framework to transform an LLM's output into a native and interactive UI.  
-• Intended as a no code frontend for ai agents that require complex user choices into an elegant UI.  
-• Fine tuned an OpenAI LLM to optimize for output quality via handmade examples of input output pairs.
+• A GUI frontend for a browser based ai agent to transform an LLM's output into a native and interactive UI  
+• Leveraged the SwiftUI frontend framework to construct a UI given a string of compliant components  
+• Fine-tuned various OpenAI LLMs to increase output quality via handmade ground truth examples  
 
 https://github.com/user-attachments/assets/d411a948-8c99-45f8-8ba1-758339940950
 
